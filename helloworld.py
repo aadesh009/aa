@@ -34,6 +34,6 @@ print "decimal to hex",n
 print "-----------i/o-------------"
 name=raw_input("enter your name")
 print "name:",name
-age=input("enter your age\n")
+age=input(" hello enter your age\n")
 '''
 
